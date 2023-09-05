@@ -6,11 +6,11 @@
 
 <div align="center">
   <h3>
-    <a href="">
+    <a href="https://interior-consultant-yb.netlify.app">
       Demo
     </a>
     <span> | </span>
-    <a href="">
+    <a href="https://devchallenges.io/solutions/drTjd6zPjcd8kUjtAeVc">
       Solution
     </a>
     <span> | </span>
